@@ -136,7 +136,7 @@ Parenthesises are optional unless there's ambiguity.
     sum (sum 1, 2) , 3 # ⇒ 6
     sum 1              # ⇒ 667
     sum 1, 2           # ⇒ 3
-    sum 1, 22, with: 3  # ⇒ 6
+    sum 1, 22, with: 3  # ⇒ 26
 
 </div>
 
